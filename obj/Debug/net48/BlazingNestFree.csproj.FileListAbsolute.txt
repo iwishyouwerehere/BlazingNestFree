@@ -1,0 +1,14 @@
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.csproj.AssemblyReference.cache
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\Window1.g.cs
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree_MarkupCompile.cache
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree_MarkupCompile.lref
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\bin\Debug\net48\BlazingNestFree.rhp
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\bin\Debug\net48\BlazingNestFree.pdb
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\Window1.baml
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.g.resources
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.AssemblyInfoInputs.cache
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.AssemblyInfo.cs
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.csproj.CoreCompileInputs.cache
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.rhp
+C:\Users\DonElladio\source\repos\BlazingNestFree\BlazingNestFree\obj\Debug\net48\BlazingNestFree.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJwt+m1g8xux7SMo5Y0aqIaScr6ggMKyZJ4CkYPMitCjpng7/qPz1ufbDC6IVgZTFC0TFG/ESdGdxFRuEX7pgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DonElladio\\source\\repos\\BlazingNestFree\\BlazingNestFree\\BlazingNestFree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DonElladio\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
