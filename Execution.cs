@@ -10,13 +10,12 @@ using System;
 using Rhino.Input.Custom;
 using Rhino.UI;
 
-namespace YourNamespace
+namespace Blazingnest
 {
     public class NestizzatoreNuevoCommand : Command
     {
         public override string EnglishName => "ExecBn";
 
-        // PEZZO SELEZIONATO
         public class Data
         {
             public Surface surface;
@@ -25,7 +24,6 @@ namespace YourNamespace
             public string name;
         }
 
-        //PEZZI DA SEZIONARE
         public class ParteIntersezione
         {
             public Brep brep;
